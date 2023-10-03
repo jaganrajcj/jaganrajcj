@@ -1,5 +1,5 @@
 <div>
-	<img src="https://github.com/Conscript-Security/Conscript-Security/blob/main/name.gif"
+	<img src="https://github-readme-stats.vercel.app/api?username=jaganrajcj&show_icons=true&theme=gruvbox"
 </div>
 
 <div align="center">

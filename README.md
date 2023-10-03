@@ -1,7 +1,7 @@
+<div>
+	<img src="https://github.com/Conscript-Security/Conscript-Security/blob/main/name.gif"
+</div>
 
-	<!--<img src="https://github.com/Conscript-Security/Conscript-Security/blob/main/name.gif"-->
-## **Stats!**
-	![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=devadethanr&show_icons=true&theme=gruvbox)
 <div align="center">
    <h1>Hi there, I'm Jagan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 </div>

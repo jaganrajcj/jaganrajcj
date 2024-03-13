@@ -1,6 +1,6 @@
-<div>
+<!--<div>
 	<img style="width: 100%" src="https://github-readme-stats.vercel.app/api?username=jaganrajcj&show_icons=true&theme=tranparent"
-</div>
+</div> -->
 
 <div align="center">
    <h1>Hi there, I'm Jagan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>

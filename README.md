@@ -7,9 +7,9 @@
 </div>
 
 <p align='center'>
-	<a href="https://twitter.com/0x011b6a"><img height="30" src="https://raw.githubusercontent.com/Conscript-Security/Conscript-Security/main/twitter.png?raw=true"></a>&nbsp;&nbsp;  	
+	<a href="https://twitter.com/jaganrajcj"><img height="30" src="https://raw.githubusercontent.com/Conscript-Security/Conscript-Security/main/twitter.png?raw=true"></a>&nbsp;&nbsp;  	
 	<a href="https://www.linkedin.com/in/jagan-raj-c-j/"><img height="30" src="https://raw.githubusercontent.com/Conscript-Security/Conscript-Security/main/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-	<a href="https://www.instagram.com/0x011b6a"><img height="30" src="https://raw.githubusercontent.com/Conscript-Security/Conscript-Security/main/instagram.png?raw=true"></a>&nbsp;&nbsp;
+	<a href="https://www.instagram.com/jaganrajcj"><img height="30" src="https://raw.githubusercontent.com/Conscript-Security/Conscript-Security/main/instagram.png?raw=true"></a>&nbsp;&nbsp;
  </p>
 
 <div align="center">
